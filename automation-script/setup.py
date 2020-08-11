@@ -1,0 +1,1 @@
+# setup the automation script for AWSMS

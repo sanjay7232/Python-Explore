@@ -1,0 +1,1 @@
+#Purpose of this script to create Central Data Store table in dynomoDB
